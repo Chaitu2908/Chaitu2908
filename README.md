@@ -1,7 +1,7 @@
 ### Hi, I'm Chaitu! 👋  
 
 - 👀 I’m interested in DevOps, Cloud, and Infrastructure as Code.  
-- 🌱 I’m currently learning advanced Terraform, Kubernetes, and Datadog monitoring.  
+- 🌱 I’m currently working advanced Terraform, Kubernetes,Jenkins,vault,pagerduty,concourseCI and Datadog monitoring.  
 - 💞️ I’m looking to collaborate on open-source DevOps projects.  
 - 📫 Reach me at [mandar.ashtaputre@gmail.com](mailto:mandar.ashtaputre@gmail.com)  
 
