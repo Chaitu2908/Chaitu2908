@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Chaitu2908
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm Chaitu! 👋  
+
+- 👀 I’m interested in DevOps, Cloud, and Infrastructure as Code.  
+- 🌱 I’m currently learning advanced Terraform, Kubernetes, and Datadog monitoring.  
+- 💞️ I’m looking to collaborate on open-source DevOps projects.  
+- 📫 Reach me at [mandar.ashtaputre@gmail.com](mailto:mandar.ashtaputre@gmail.com)  
 
 <!---
 Chaitu2908/Chaitu2908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
